@@ -1,0 +1,2 @@
+# AUOH_Tuntikoodaus
+Automaation ohjelmistosuunnittelun tuntikoodausta
